@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I'm passionate about artificial intelligence, customer experience, and building reliable AI systems. I have a background in customer support and I'm expanding my expertise into AI training, prompt engineering, and large language model (LLM) evaluation.
+I'm passionate about artificial intelligence, customer experience, and building reliable AI systems. I have a background in customer support and I’m building practical skills in AI training, prompt engineering, and large language model (LLM) evaluation through hands-on projects and continuous learning.
 
 ## 🚀 What I'm Working On
 
