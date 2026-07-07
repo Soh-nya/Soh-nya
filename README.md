@@ -1,54 +1,52 @@
 # Hi, I'm Sonia Okonkwo 👋
 
-## About Me
+### Customer Success Professional | AI Trainer | LLM Evaluator | Prompt Engineering Enthusiast
 
-I'm a Customer Success professional with experience in delivering excellent customer experiences. I'm currently transitioning into AI Training, LLM Evaluation, and Prompt Engineering.
+Welcome to my GitHub!
 
-## Skills
+I'm passionate about artificial intelligence, customer experience, and building reliable AI systems. I have a background in customer support and I'm expanding my expertise into AI training, prompt engineering, and large language model (LLM) evaluation.
+
+## 🚀 What I'm Working On
+
+- 🤖 AI Training & Evaluation
+- 🧠 Prompt Engineering
+- 📊 AI Quality Assurance
+- 🔍 Research & Fact-Checking
+- 💬 Customer Success
+
+## 🛠 Skills
 
 - Prompt Engineering
 - Generative AI
 - Large Language Models (LLMs)
 - AI Evaluation
-- Customer Success
 - Customer Support
-- Research
+- Customer Success
+- Communication
 - Critical Thinking
 - Problem Solving
-- Communication
 - Microsoft Office
 - Google Workspace
 
-## Currently Learning
+## 🌱 Currently Learning
 
 - Python
 - SQL
-- AI Safety
 - Natural Language Processing (NLP)
+- AI Safety
 - Retrieval-Augmented Generation (RAG)
 
-## Current Goals
+## 🎯 2026 Goals
 
-- Build AI evaluation projects
-- Improve prompt engineering skills
-- Contribute to AI datasets
-- Work with global AI teams
+- Build an AI portfolio
+- Contribute to AI evaluation projects
+- Improve Python skills
+- Work on global AI and LLM projects
 
-## Connect with Me
+## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/sonia-okonkwo
 
-<!--
-**Soh-nya/Soh-nya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
